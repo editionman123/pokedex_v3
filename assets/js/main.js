@@ -4,7 +4,7 @@ const selectGen = document.getElementById('selectGen')
 const limit = 10
 const maxRecords = {"gen_1": 152, "gen_2": 100, "gen_3": 135}
 let countRecords = 0
-const generations = {"gen_1": 0, "gen_2": 152, "gen_3": 252}
+const generations = {"gen_1": 0, "gen_2": 151, "gen_3": 251, "gen_4":300}
 let offset = 0
 
 
